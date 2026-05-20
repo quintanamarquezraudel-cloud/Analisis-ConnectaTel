@@ -48,8 +48,9 @@ usage.csv → Detalle del uso real de los servicios (llamadas y mensajes)
 🚀 Cómo Ejecutar el Proyecto
 ### Opción 1: Google Colab (Recomendado)
 1. Abre el notebook en Google Colab
-2. Los datasets están disponibles en la ruta /datasets/
-3. Ejecuta las celdas secuencialmente
+2. https://colab.research.google.com/drive/1J4jReDoEJHDhpoBfaPczvyBX0Ag3NqqZ?usp=sharing
+3. Los datasets están disponibles en la ruta /datasets/
+4. Ejecuta las celdas secuencialmente
 
 ### Opción 2: Entorno Local
 1. Clona este repositorio
