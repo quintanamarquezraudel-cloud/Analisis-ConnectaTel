@@ -11,6 +11,7 @@ plans.csv → Información de los planes actuales (precio, minutos incluidos, GB
 users_latam.csv → Información de los clientes (edad, ciudad, fecha de registro, plan, churn).
 
 usage.csv → Detalle del uso real de los servicios (llamadas y mensajes).
+
 🔄 Etapas del Análisis
 ### 1. Carga y Exploración de Datos
 - Importación de librerías necesarias (pandas, seaborn, matplotlib)
