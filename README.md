@@ -6,9 +6,11 @@ Como analista de datos, el objetivo es evaluar el comportamiento de los clientes
 📁 Datasets Utilizados
 El proyecto trabaja con tres datasets principales:
 
-plans.csv → Información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
-users_latam.csv → Información de los clientes (edad, ciudad, fecha de registro, plan, churn)
-usage.csv → Detalle del uso real de los servicios (llamadas y mensajes)
+plans.csv → Información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+
+users_latam.csv → Información de los clientes (edad, ciudad, fecha de registro, plan, churn).
+
+usage.csv → Detalle del uso real de los servicios (llamadas y mensajes).
 🔄 Etapas del Análisis
 ### 1. Carga y Exploración de Datos
 - Importación de librerías necesarias (pandas, seaborn, matplotlib)
