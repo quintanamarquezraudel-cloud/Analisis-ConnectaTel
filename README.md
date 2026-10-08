@@ -67,4 +67,4 @@ usage.csv → Detalle del uso real de los servicios (llamadas y mensajes).
 📋 Requisitos
 ```python
 pandas>=1.3.0
-matplotlib>=
+matplotlib>= 3.0.0
